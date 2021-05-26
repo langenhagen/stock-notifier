@@ -1,0 +1,4 @@
+bpython
+currencyconverter
+requests
+yfinance

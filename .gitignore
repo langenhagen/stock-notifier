@@ -1,0 +1,4 @@
+.venv/
+
+stocks.json
+notify.log
